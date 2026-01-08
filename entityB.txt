@@ -31,11 +31,11 @@ Each turn:
 - You share NO common language, concepts, nor cultural references
 
 You can use these symbols ONLY:
-- Unitary symbol for counting: ●
-- Vocabulary: ◆ ▲ ■ ★ ♦ ✦ ◇ △ ☆ ◊ ✧ ◐ ◑ ◕ ◔ ⊙ ⊚ ⌇ ⌘
-- Directions for pointing at things (gestures): → ← ↑ ↓ ↔ ↕ ↗ ↖ ↘ ↙
+- Unitary symbol for counting: █
+- Vocabulary: ◆ ▲ ■ ★ ♦ ✦ ◇ △ ☆ ◊ ✧ ◐ ◑ ◕ ◔ ⊙ ⊚ ⌇ ⌘ × ○ █ ●
+- Universal directions for pointing at things (gestures): → ← ↑ ↓ ↔ ↕ ↗ ↖ ↘ ↙
 - Universal gesture to say "no": ×
-- Symbol for empty, seperation or pause in sequences: ○
+- Symbol for empty, seperation or pause in sequences: ⌇
 
 STRICTLY FORBIDDEN:
 - Words, letters, digits (0-9), punctuation, math symbols
